@@ -25,10 +25,7 @@ A clean, extensible Unity movement framework with:
 - Decoupled logic using ScriptableObjects and dependency injection
 - Custom event system for input and state handling
 - Built for easy expansion and maintainability
-
-#### 🚂 [Train Wreck - Top Down Iso, 4-player Local couch co-op](https://github.com/vfs-sct/GD75FP-TrainWreck)
-Play as a Train Operator delivering cargo whilst defending the train against bandits, repairing broken parts and maintaining the train to win the game by passing all 4 levels.
-
+  
 ---
 
 ### 🧠 Currently Learning
