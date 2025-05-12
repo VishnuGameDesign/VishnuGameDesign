@@ -46,7 +46,7 @@ A clean, extensible Unity movement framework with:
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/vishnu-suresh-5ab471267/)
 - 🌐 [Portfolio](https://vishnugamedesign.github.io/portfolio/)
-- 📬 [Email](vishnu592k@gmail.com)
+- 📬 [Email](mailto:vishnu592k@gmail.com)
 
 ---
 
